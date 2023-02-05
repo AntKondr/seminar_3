@@ -1,0 +1,15 @@
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\bin\Debug\net7.0\task_additional.exe
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\bin\Debug\net7.0\task_additional.deps.json
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\bin\Debug\net7.0\task_additional.runtimeconfig.json
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\bin\Debug\net7.0\task_additional.dll
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\bin\Debug\net7.0\task_additional.pdb
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.csproj.AssemblyReference.cache
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.AssemblyInfoInputs.cache
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.AssemblyInfo.cs
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.csproj.CoreCompileInputs.cache
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.dll
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\refint\task_additional.dll
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.pdb
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\task_additional.genruntimeconfig.cache
+C:\Users\Antony\Desktop\py_code\C#\home_work\seminar_3\task_additional\obj\Debug\net7.0\ref\task_additional.dll
